@@ -7,15 +7,15 @@ Android Developer | Competitive Programmer | Full Stack Web Development
 
 ##  About Me
 
-* 🔭 Building Android apps using Kotlin & Firebase
-* 🧠 Solved 1500+ DSA problems
-* 🏆 Specialist @ Codeforces (1402)
-* ⭐ 3★ @ CodeChef (1606)
-* 👑 Knight @ LeetCode (1860)
+*  Building Android apps using Kotlin & Firebase
+*  Solved 1500+ DSA problems
+*  Specialist @ Codeforces (1402)
+*  3★ @ CodeChef (1606)
+*  Knight @ LeetCode (1860)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Languages: C++, Kotlin, Python, JavaScript
 * Development: Android (Kotlin, XML), Firebase
@@ -34,7 +34,7 @@ Android Developer | Competitive Programmer | Full Stack Web Development
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/abhishekh-mishra-81a655291/
 * Email: [abhishekhmishra4145@gmail.com](mailto:abhishekhmishra4145@gmail.com)
